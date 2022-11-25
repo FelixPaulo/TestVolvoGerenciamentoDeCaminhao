@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application.UnitTest\\Truck.Management.Test.Application.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application.UnitTest\\Truck.Management.Test.Application.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application.UnitTest\\Truck.Management.Test.Application.UnitTest.csproj",
+        "projectName": "Truck.Management.Test.Application.UnitTest",
+        "projectPath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application.UnitTest\\Truck.Management.Test.Application.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\paulo.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application\\Truck.Management.Test.Application.csproj": {
+                "projectPath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application\\Truck.Management.Test.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application\\Truck.Management.Test.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application\\Truck.Management.Test.Application.csproj",
+        "projectName": "Truck.Management.Test.Application",
+        "projectPath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application\\Truck.Management.Test.Application.csproj",
+        "packagesPath": "C:\\Users\\paulo.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Domain\\Truck.Management.Test.Domain.csproj": {
+                "projectPath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Domain\\Truck.Management.Test.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Domain\\Truck.Management.Test.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Domain\\Truck.Management.Test.Domain.csproj",
+        "projectName": "Truck.Management.Test.Domain",
+        "projectPath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Domain\\Truck.Management.Test.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulo.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

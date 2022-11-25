@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Truck.Management.Test.Application.UnitTest
+build_property.ProjectDir = C:\CTVoicer\TestVolvoGerenciamentoDeCaminhao\src\services\Truck.Management.Test.Application.UnitTest\

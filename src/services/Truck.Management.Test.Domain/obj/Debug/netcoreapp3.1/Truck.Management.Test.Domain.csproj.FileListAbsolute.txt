@@ -1,0 +1,10 @@
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\bin\Debug\netcoreapp3.1\Truck.Management.Test.Domain.deps.json
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\bin\Debug\netcoreapp3.1\Truck.Management.Test.Domain.dll
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\bin\Debug\netcoreapp3.1\Truck.Management.Test.Domain.pdb
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\obj\Debug\netcoreapp3.1\Truck.Management.Test.Domain.csproj.AssemblyReference.cache
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\obj\Debug\netcoreapp3.1\Truck.Management.Test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\obj\Debug\netcoreapp3.1\Truck.Management.Test.Domain.AssemblyInfoInputs.cache
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\obj\Debug\netcoreapp3.1\Truck.Management.Test.Domain.AssemblyInfo.cs
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\obj\Debug\netcoreapp3.1\Truck.Management.Test.Domain.csproj.CoreCompileInputs.cache
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\obj\Debug\netcoreapp3.1\Truck.Management.Test.Domain.dll
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Domain\obj\Debug\netcoreapp3.1\Truck.Management.Test.Domain.pdb

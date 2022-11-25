@@ -1,0 +1,16 @@
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.csproj.AssemblyReference.cache
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.AssemblyInfoInputs.cache
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.AssemblyInfo.cs
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.csproj.CoreCompileInputs.cache
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\bin\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.deps.json
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\bin\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.runtimeconfig.json
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\bin\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.runtimeconfig.dev.json
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\bin\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.dll
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\bin\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.pdb
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\bin\Debug\netcoreapp3.1\Truck.Management.Test.Domain.dll
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\bin\Debug\netcoreapp3.1\Truck.Management.Test.Domain.pdb
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.csproj.CopyComplete
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.dll
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.pdb
+C:\CTVoicer\Truck.Management.Test\src\services\Truck.Management.Test.Infra.Data\obj\Debug\netcoreapp3.1\Truck.Management.Test.Infra.Data.genruntimeconfig.cache

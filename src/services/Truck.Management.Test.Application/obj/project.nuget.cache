@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dgd+k0XlL//3HHC2KAe6SAND1kVj9R7N+4IeRwhrSrs+78TkpC358zj2zLFB59GmHeyYB4IL1ReklJcC0DtGdw==",
+  "success": true,
+  "projectFilePath": "C:\\CTVoicer\\TestVolvoGerenciamentoDeCaminhao\\src\\services\\Truck.Management.Test.Application\\Truck.Management.Test.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo.silva\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\paulo.silva\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\paulo.silva\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\paulo.silva\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\paulo.silva\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\paulo.silva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
