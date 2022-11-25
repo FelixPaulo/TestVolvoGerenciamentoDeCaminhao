@@ -20,3 +20,11 @@
   "anoModelo": 2022
 }
 
+6. Exemplo de Update PUT feito pelo swagger
+- {
+  "id": 1008,
+  "cor": "cinza escuro",
+  "modelo": "FH",
+  "anoModelo": 2022,
+  "digitalPanel": true
+}
